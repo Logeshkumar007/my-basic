@@ -1,0 +1,23 @@
+p{
+    color: red;
+    text-align:center;
+    font-family: cursive;
+    
+}
+#va{
+    background-color: aquamarine;
+    color: red;
+    text-align:center;
+    font-family: cursive;
+    letter-spacing:px;
+    line-height:2;
+    text-transform:capitalize;
+
+}
+
+
+.ra{
+    color: red;
+    text-align:center;
+    font-family: cursive;
+}
